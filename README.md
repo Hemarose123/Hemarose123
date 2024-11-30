@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hemarose" target="blank"><img src="https://img.shields.io/twitter/follow/hemarose?logo=twitter&style=for-the-badge" alt="hemarose" /></a> </p>
 
-- 🔭 I’m currently working on **various python python**
+- 🔭 I’m currently working on **various python projects.**
 
 - 🌱 I’m currently learning **Django framework to build robust web applications.**
 
